@@ -1,0 +1,44 @@
+These are the notes from the free Webinar that I am attending on Nov 11 2020
+
+>>>LEARNING OBJECTIVES
+History of Python 
+Benefits of Python workflow in data
+Demonstrate Python fundamentals
+Create a custom learning plan to build data science skills
+
+>>>WHAT IS PYTHON?
+Created by Guido Van Rossum in 1991
+Emphasis on productivity and readability
+
+>>>WHY IS PYTHON READABLE
+Interpreted language -- step by step execution
+Behaves the same on any machine or cloud, but this is a trade off for performance. 
+Object Oriented language -- Code with objects that contain data and functions to manipulate it in predefined ways.
+
+>>>WHY PYTHON?
+Free, flexible, open source
+Extensible with easy to install libraries
+Great Documentaion with a large community. Most problems you have, somebody else has had the same problem.
+Stack Overflow is a very large part of the Python Community
+Scripts can be run many times
+
+>>>WHO USES PYTHON? (Some examples)
+Industry & Academia: AstroPy, BioPython
+Web Development: YouTube, DropBox
+Game Development: Civ IV
+Standalone Apps: BitTorrent
+
+>>>PROGRAMMING FUNDAMNETALS FRAMEWORK
+Syntax -- The "grammar" of a coding langauge.
+Variables -- How computers store information
+Control Structures -- Sets the hierarchy/priorities of programming logic
+Data Structures -- How computers organize data
+
+>>>SYNTAX
+Set of rules that define the combinations of symbols that are considered to be correctly structured programs in that language.
+Programming languages have code blocks and statements, like pragraphs and sentences
+
+>>>VARIABLES
+Symbolic names that store a specific piece of information
+
+>>>Girlfriend needs a ride to class, will catch the replay of the webinar and finish another time<<<
